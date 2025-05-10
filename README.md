@@ -20,6 +20,12 @@
 
 Meet SwiftPay, a financial SaaS platform powered by Next.js. It’s like having a personal financial assistant that connects to multiple bank accounts, shows you your transactions in real-time, lets you send money to other users, and takes care of all your financial stuff. 
 
+---
+
+## 🔗 Live Demo
+
+🚀 Check out the live app here: [https://swiftpay.yourdomain.com](https://swiftpay.yourdomain.com)
+
 ## 📷 Screenshots
 
 | Home / Dashboard                        | Transfer Funds                         |
