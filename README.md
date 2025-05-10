@@ -15,16 +15,16 @@
   <h3 align="center"> SwiftPay - A Fintech Bank Application</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Meet SwiftPay, a financial SaaS platform powered by Next.js. It’s like having a personal financial assistant that connects to multiple bank accounts, shows you your transactions in real-time, lets you send money to other users, and takes care of all your financial stuff. 
+
+## 📷 Screenshots
+
+| Home / Dashboard                        | Transfer Funds                         |
+|----------------------------------------|----------------------------------------|
+| ![Dashboard]([./screenshots/dashboard.png](https://github.com/user-attachments/assets/e0cc1324-281b-459d-a490-c5fb09efb3b8)) | ![Transfer]([./screenshots/transfer.png](https://github.com/user-attachments/assets/ed3c1917-c45c-4efe-a561-529d0f6fdcba)) |
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
