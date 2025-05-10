@@ -24,13 +24,13 @@ Meet SwiftPay, a financial SaaS platform powered by Next.js. It’s like having 
 
 ## 🔗 Live Demo
 
-🚀 Check out the live app here: [https://swiftpay.yourdomain.com](https://swiftpay.yourdomain.com)
+🚀 Check out the live app here: [swift-pay-blond.vercel.app](swift-pay-blond.vercel.app)
 
 ## 📷 Screenshots
 
-| Home / Dashboard                        | Transfer Funds                         |
-|----------------------------------------|----------------------------------------|
-|![Image](https://github.com/user-attachments/assets/e0cc1324-281b-459d-a490-c5fb09efb3b8) |![Image](https://github.com/user-attachments/assets/ed3c1917-c45c-4efe-a561-529d0f6fdcba) |
+| Home / Dashboard                        | Transfer Funds                         | Auth Page (Login/Signup)        |
+|----------------------------------------|----------------------------------------|----------------------------------|
+|![Image](https://github.com/user-attachments/assets/e0cc1324-281b-459d-a490-c5fb09efb3b8) |![Image](https://github.com/user-attachments/assets/ed3c1917-c45c-4efe-a561-529d0f6fdcba) |  ![Image](https://github.com/user-attachments/assets/47c9b846-5799-4ca1-b7db-803182a5e0ee) |
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
