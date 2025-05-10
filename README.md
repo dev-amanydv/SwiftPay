@@ -24,7 +24,7 @@ Meet SwiftPay, a financial SaaS platform powered by Next.js. It’s like having 
 
 | Home / Dashboard                        | Transfer Funds                         |
 |----------------------------------------|----------------------------------------|
-| ![Dashboard]([./screenshots/dashboard.png](https://github.com/user-attachments/assets/e0cc1324-281b-459d-a490-c5fb09efb3b8)) | ![Transfer]([./screenshots/transfer.png](https://github.com/user-attachments/assets/ed3c1917-c45c-4efe-a561-529d0f6fdcba)) |
+|![Image](https://github.com/user-attachments/assets/e0cc1324-281b-459d-a490-c5fb09efb3b8) |![Image](https://github.com/user-attachments/assets/ed3c1917-c45c-4efe-a561-529d0f6fdcba) |
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
