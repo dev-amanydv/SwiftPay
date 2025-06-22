@@ -83,7 +83,6 @@ Make sure you have the following installed on your machine:
 git clone https://github.com/dev-amanydv/SwiftPay.git
 cd swiftpay
 ```
-
 **Installation**
 
 Install the project dependencies using npm:
